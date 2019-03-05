@@ -8,4 +8,4 @@ Here's our design of medlin headband
 And here is the implemented demo of the headband and the sensors.
 ### #to be added#
 
-[logo]: https://github.com/shalahuddinn/medlin/edit/master/medlin.png
+[logo]: https://github.com/shalahuddinn/medlin/edit/master/medlin.png "The Headband design"
