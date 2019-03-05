@@ -1,0 +1,23 @@
+{
+  "name": "medlin",
+  "version": "1.0.0",
+  "description": "medlin electron gui apps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalahuddinn/medlin.git"
+  },
+  "author": "Gusti Triandi Winata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalahuddinn/medlin/issues"
+  },
+  "homepage": "https://github.com/shalahuddinn/medlin#readme",
+  "devDependencies": {
+    "electron": "^4.0.7"
+  }
+}
