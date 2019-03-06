@@ -2,12 +2,37 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Hello World!</title>
+    <title>Medlin</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Hello World!</h1>
-    We are using node <script>document.write(process.versions.node)</script>,
-    Chrome <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
+    <div class="container">
+        <div class="apptitle"><h1>
+            Welcome to medlin.
+        </h1></div>
+        <div class="boxes">
+            <div class="content">
+                <h4 class="contenttitle"><strong>BPM</strong></h4>
+                <div class="box">
+                    <img src="img/ECG.gif"/>
+                </div>
+            </div>
+            <div class="content">
+                    <h4 class="contenttitle"><strong>Fatigue</strong></h4>
+                <div class="box">
+                    <img src="img/512x512bb.jpg"/>
+                </div>
+            </div>
+            <div class="content">
+                    <h4 class="contenttitle"><strong>Duration</strong></h4>
+                <div class="box">
+                    <img src="img/untitled.svg"/>
+                </div>
+            </div>
+        </div>
+        <div class="diagnose">
+            <button class="diagnosebutton"><strong>Risk Diagnosis</strong></button>
+        </div>
+    </div>
   </body>
 </html>

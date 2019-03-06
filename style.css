@@ -1,0 +1,63 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+.contenttitle{
+    color: rgb(28, 43, 43);
+    font-weight: 500;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.apptitle{
+    margin-top:75px;
+}
+
+.apptitle{
+    font-size: 24px;
+}
+
+.boxes{
+    margin-top: 25px;
+    display: flex;
+}
+
+.content{
+    float: left;
+    width: 250px;
+    margin: 0 15px;
+}
+
+.diagnose{
+    margin: 25px auto;
+    text-align: center;
+}
+
+.diagnosebutton{
+    margin: 0 auto;
+    /* border-style: none; */
+    border-radius: 5px;
+    font-size: 16px;
+    /* border:  */
+    padding: 8px;
+    /* color: lightslategray; */
+}
+
+.box{
+    /* float: left; */
+    padding: 16px;
+    /* background: gainsboro; */
+}
+
+.box img{
+    width: auto;
+    max-height: 100px;
+    height: auto;
+}
