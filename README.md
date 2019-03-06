@@ -26,11 +26,11 @@ npm start
 ## Features
 
 Medlin has
-..* BPM pulse sensor
-..* Lidar sensor
-..* LDR sensor
-..* DS1820 (temperature sensor)
-..* Vibration motor
+* BPM pulse sensor
+* Lidar sensor
+* LDR sensor
+* DS1820 (temperature sensor)
+* Vibration motor
 
 In software side medlin use 'electron js' as the main framework because we want a GUI application. The software side are connected to vatious token from 'AWS machine learning' and  'firebase realtime database' 
 ***
