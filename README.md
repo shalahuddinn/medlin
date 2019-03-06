@@ -7,6 +7,6 @@ Here's our design of medlin headband
 ![alt text](https://github.com/shalahuddinn/medlin/src/medlin.png "Logo Title Text 1")
 
 And here is the implemented demo of the headband and the sensors.
-![routing] (./src/routing.jpg)
+![routing](./src/routing.jpg)
 
 
