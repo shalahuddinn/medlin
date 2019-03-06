@@ -4,7 +4,7 @@ This is repository for medlin project. Using various Sensors to measure conditio
 
 Here's our design of medlin headband
 
-![Intro]:(https://raw.githubusercontent.com/shalahuddinn/medlin/master/medlin.png)
+![alt text](https://github.com/shalahuddinn/medlin/master/medlin.png "Logo Title Text 1")
 
 And here is the implemented demo of the headband and the sensors.
 ### #to be added#
